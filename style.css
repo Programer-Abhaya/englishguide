@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+}
+.navbar {
+  text-align: center;
+}
+.navbar h1 {
+  font-weight: 10;
+  color: white;
+}
+.classes {
+  text-align: center;
+  margin-top: 206px;
+}
+button {
+  margin: 8px;
+  background: white;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 176px;
+  height: 79px;
+  box-shadow: 2px 20px 13px rgb(255, 255, 255);
+}
+button a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+.another_info {
+  margin-top: 118px;
+}
+.another_info p {
+    color: white;
+    font-size: 19px;
+    /* font-family: sans-serif; */
+    text-align: center;
+}

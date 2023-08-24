@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+.chapter_name {
+    text-align: center;
+}
+.soln_meaning {
+    margin-top: 11px;
+    margin-left: 8px;
+}
+.porpuse {
+    margin-top: 53px;
+}
+.soln_purpose {
+    margin-top: 11px;
+    margin-left: 5px;
+}
+p {
+    font-size: 20px;
+}
+.soln_answer_question p{
+    font-size: 25px;
+}
+.answer_QUESTION {
+    margin-top: 68px;
+}
+.Magicalshoes {
+    text-align: center;
+    margin-top: 49px;
+}
+.Magicalshoes a {
+    font-size: 48px;
+    color: black;
+}
+.soln {
+    margin-top: 14px;
+}
+.soln p {
+    font-size: 24px;
+}
+.true_in_friend_ship {
+    margin-top: 37px;
+}
+.a {
+    text-align: center;
+}
+.a a {
+    font-size: 39px;
+    color: black;
+}
+.soln_a p {
+    margin-top: 20px;
+    font-size: 25px;
+}

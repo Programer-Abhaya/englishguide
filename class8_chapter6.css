@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.chapter_name {
+  text-align: center;
+}
+.A {
+  margin-top: 52px;
+  margin-left: 6px;
+}
+.soln_A {
+  margin-top: 6px;
+}
+.soln_A p {
+  font-size: 22px;
+}
+.answer_question {
+  margin-top: 17px;
+}
+.soln_answers {
+  margin-top: 7px;
+}
+.soln_answers p {
+  font-size: 23px;
+}
+.match_the_following {
+  margin-top: 29px;
+}
+.soln_mtch {
+  margin-top: 9px;
+}
+.soln_mtch p {
+    font-size: 27px;
+}
+.d_number {
+    margin-top: 43px;
+}
+.soln_d_numbver {
+    margin-top: 31px;
+}
+.soln_d_numbver p {
+    font-size: 30px;
+}
+.soln_grammer p {
+    font-size: 27px;
+}
+.soln_bnumber {
+  margin-top: 13px;
+}
+.soln_bnumber p {
+  font-size: 26px;
+}
+span{
+  border-bottom: 1px solid;
+  font-size: 36px;
+}
+.soln_writing p {
+  font-size: 27px;
+}

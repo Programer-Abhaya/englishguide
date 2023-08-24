@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.chapter_name{
+    text-align: center;
+}
+.synonym_info {
+    margin-top: 38px;
+}
+.soln_synonym {
+    margin-top: 15px;
+}
+.put_in_correct_word {
+    margin-top: 38px;
+}
+.soln_correct {
+    margin-top: 18px;
+}
+h3 {
+    margin: 5px;
+}
+p {
+    font-size: 18px;
+}
+.soln_answer_question h3 {
+    font-size: 26px;
+}

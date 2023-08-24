@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.chapter_name{
+    text-align: center;
+}
+.answer_the_following_question {
+    margin-top: 31px;
+}
+.soloving_answer {
+    margin-top: 5px;
+}
+.soln_match_the_following {
+    margin-top: 10px;
+}
+p{
+    font-size: 22px;
+}

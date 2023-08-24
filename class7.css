@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar h1 {
+    text-align: center;
+}
+.Chapters {
+    text-align: center;
+    margin-top: 22px;
+}
+a {
+    font-size: 34px;
+    text-decoration: none;
+    color: black;
+}
+button {
+    margin: 10px;
+    background: yellow;
+    box-shadow: 0px 9px 18px black;
+}
+.staus{
+    text-align: center;
+}

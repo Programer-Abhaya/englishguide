@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+.chapter_name {
+    text-align: center;
+}
+.complete_sentence {
+    margin-top: 11px;
+    margin-left: 13px;
+}
+.soln_complete_sentence {
+    margin-top: 17px;
+}
+.options {
+    margin-top: 4px;
+}
+.options p {
+    font-size: 18px;
+    font-weight: 900;
+}
+.soln_complete_sentence p {
+    font-size: 20px;
+}
+.correct_place {
+    margin-top: 7px;
+}
+.soln_correct_place {
+    margin-top: 5px;
+}
+.soln_correct_place p {
+    font-size: 21px;
+}
+.answer_these_question {
+    margin-top: 10px;
+}
+.soln_ans {
+    margin-top: 6px;
+}
+.soln_ans p {
+    font-size: 20px;
+}
+.soln_grammerI {
+    margin-top: 15px;
+}
+.soln_grammerI p {
+    font-size: 22px;
+}
+.sorry {
+    margin-top: 59px;
+    text-align: center;
+}

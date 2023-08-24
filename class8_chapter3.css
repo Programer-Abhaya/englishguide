@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.soln_true_false p {
+  font-size: 21px;
+}
+.true_false {
+  margin-top: 43px;
+}
+.soln_ansswer p {
+  font-size: 19px;
+}
+.annswer_question {
+    margin-top: 43px;
+}
+.soln_match_following p {
+  font-size: 22px;
+}
+.chapter_name {
+  text-align: center;
+}
+.heading_name_A {
+  margin-top: 48px;
+}
